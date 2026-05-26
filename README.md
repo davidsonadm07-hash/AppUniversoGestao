@@ -1,2 +1,2 @@
 # AppUniversoGestao
-SMS Universo Gestão Cobrança e Gerenciamento
+APP Universo Gestão Cobrança e Gerenciamento
